@@ -8,8 +8,7 @@ StayHealthy conducted an extensive survey to assess the medical facilities avail
 With the internet and broadband availability increasing in remote areas, the initiative from StayHealthy will help get patients access to general physicians and specialists at the right time easily.
 
 ## Project Requirements
-    * A user-friendly, intuitive, and accessible platform that helps connect patients with doctors and specialists for consultations and medical prescriptions
-
+   * A user-friendly, intuitive, and accessible platform that helps connect patients with doctors and specialists for consultations and medical prescriptions
 ## Features
 * Medical appointments online
     * The website must allow patients to schedule appointments with doctors anywhere, anytime.
@@ -48,7 +47,7 @@ The development of the project will be phases. In the first phase of the project
 ## Expectations from you
 For the first phase of the project, you will need to:
 
-    * Design the UI/UX for the website using Figma
-    * Develop static and responsive pages using HTML, CSS, and Reactjs
-    * Deploy the website
+   * Design the UI/UX for the website using Figma
+   * Develop static and responsive pages using HTML, CSS, and Reactjs
+   * Deploy the website
 It is also expected that you follow the application development lifecycle as depicted below. So as you begin with this scenario, make sure to analyze the requirements mentioned here thoroughly before you move to the next phase.
