@@ -9,6 +9,7 @@ With the internet and broadband availability increasing in remote areas, the ini
 
 ## Project Requirements
 ..* A user-friendly, intuitive, and accessible platform that helps connect patients with doctors and specialists for consultations and medical prescriptions
+
 ## Features
 * Medical appointments online
 ..* The website must allow patients to schedule appointments with doctors anywhere, anytime.
